@@ -24,7 +24,6 @@ Personal Goals
 
 
 ## Users
-
 Users would visit this website to:
 * Find out more about colour blindness.
 * Understand a small amount of science behind colour blindness.
@@ -47,7 +46,6 @@ To be written.
 
 
 ## Features
-
 * Logo
 * SideBar
 * Nav Bar
@@ -67,6 +65,7 @@ To be written.
 To be written.
 
 
+
 ## Future Implementations
 To be written.
 
@@ -81,10 +80,12 @@ To be written.
 To be written.
 
 
+
 ## Deployment
 To be written.
 
 ### Run this Locally in Your Own Repository
+To be written.
 
 
 
