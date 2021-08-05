@@ -1,14 +1,14 @@
 # Allana Bailey - Colour Blind Project with Code Institute
 
-##Brief Overview
+## Brief Overview
 
-###Description
+### Description
 A website for people to visit who would like to know more about colour blindness, with clear visual representations of how different forms of colour blindness alter vision. The website also provides information on ways to design web applications in a more inclusive manner for people with colour blindness.
 
-####Features
+#### Features
 The website features a home page with a brief scientific overview of colour blindness, a sidebar containing links to useful external sources such as colour blind tests and articles, more in-depth information about the three most common types of colour blindness, a page where the user can select different colours and see how it appears to people with each main form of colour blindness, a page on design considerations for web developers to create more inclusive applications for visually impaired and colour blind users.
 
-###Goals
+### Goals
 Website Goals
 ..* Raise awareness of colour blindness.
 ..* Provide interactive forms of learning and visalisation for different learning types.
@@ -23,7 +23,7 @@ Personal Goals
 
 
 
-##Users
+## Users
 
 Users would visit this website to:
 ..* Find out more about colour blindness.
@@ -31,22 +31,22 @@ Users would visit this website to:
 ..* Witness the differences in colour for each type of colour blindness.
 ..* Find out about design considerations that could create amore inclusive web application or graphic.
 
-###User Stories
+### User Stories
 As a user....
 
 
 
-##Planning and Wireframes/MockUps
+## Planning and Wireframes/MockUps
 
-###Planning Process
+### Planning Process
 To be written.
 
-###Wireframes
+### Wireframes
 To be written.
 
 
 
-##Features
+## Features
 
 ..* Logo
 ..* SideBar
@@ -54,39 +54,39 @@ To be written.
 ..* Title
 ..* Footer
 
-###Home
+### Home
 To be written.
 
-###Types
+### Types
 To be written.
 
-###Palette
+### Palette
 To be written.
 
-###Design Considerations
-To be written.
-
-
-##Future Implementations
+### Design Considerations
 To be written.
 
 
-
-##Technologies Used
+## Future Implementations
 To be written.
 
 
 
-##Testing
+## Technologies Used
 To be written.
 
 
-##Deployment
+
+## Testing
 To be written.
 
-###Run this Locally in Your Own Repository
+
+## Deployment
+To be written.
+
+### Run this Locally in Your Own Repository
 
 
 
-##Credits and Aknowledgements
+## Credits and Aknowledgements
 To be written.
