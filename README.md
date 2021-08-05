@@ -10,26 +10,26 @@ The website features a home page with a brief scientific overview of colour blin
 
 ### Goals
 Website Goals
-..* Raise awareness of colour blindness.
-..* Provide interactive forms of learning and visalisation for different learning types.
-..* Showcase inclusive design options for web developers and other graphical designers.
-..* Link to other useful information and articles on the web.
+* Raise awareness of colour blindness.
+* Provide interactive forms of learning and visalisation for different learning types.
+* Showcase inclusive design options for web developers and other graphical designers.
+* Link to other useful information and articles on the web.
 
 Personal Goals
-..* Create a website as part of my online portfolio.
-..* Produce a responsive design suitable for all screen sizes.
-..* Improve my understanding of colour blindness through research.
-..* Discover ways to make my own work more inclusive for those with visual impairments.
+* Create a website as part of my online portfolio.
+* Produce a responsive design suitable for all screen sizes.
+* Improve my understanding of colour blindness through research.
+* Discover ways to make my own work more inclusive for those with visual impairments.
 
 
 
 ## Users
 
 Users would visit this website to:
-..* Find out more about colour blindness.
-..* Understand a small amount of science behind colour blindness.
-..* Witness the differences in colour for each type of colour blindness.
-..* Find out about design considerations that could create amore inclusive web application or graphic.
+* Find out more about colour blindness.
+* Understand a small amount of science behind colour blindness.
+* Witness the differences in colour for each type of colour blindness.
+* Find out about design considerations that could create amore inclusive web application or graphic.
 
 ### User Stories
 As a user....
@@ -48,11 +48,11 @@ To be written.
 
 ## Features
 
-..* Logo
-..* SideBar
-..* Nav Bar
-..* Title
-..* Footer
+* Logo
+* SideBar
+* Nav Bar
+* Title
+* Footer
 
 ### Home
 To be written.
