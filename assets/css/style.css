@@ -47,7 +47,8 @@ header {
 }
 
 .active {
-    border-bottom: 2px solid #2a4147;
+    background-color: #bdd9C0;
+    color: #2a4147;
 }
 
 h1, h2 {
