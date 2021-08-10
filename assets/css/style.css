@@ -50,11 +50,12 @@ header {
     border-bottom: 2px solid #bdd9c0;
 }
 
-h1 {
+h1, h2 {
     font-size: 210%;
     font-family: Heebo, sans-serif;
     text-align: center;
     margin-top: 30px;
+    text-transform: uppercase;
 }
 
 #logo {
@@ -93,6 +94,28 @@ h1 {
         transform: scale(1.1);
     }
 }
+
+/* About Colour Blindness (Home Page) */
+#science {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+#about-left-image {
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-right: 50px;
+}
+
+h3 {
+    font-size: 150%;
+    font-family: Heebo, sans-serif;
+    margin-bottom: 20px;
+}
+
+
+
 
 
 
