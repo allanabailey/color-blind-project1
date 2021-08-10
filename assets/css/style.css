@@ -131,9 +131,10 @@ h3 {
 footer {
     background-color: #2a4147;
     color: #bdd9C0;
-    height: 200px;
+    height: 300px;
     text-align: center;
     font-size: 90%;
+    left: 0;
     bottom: 0;
     width: 100%;
 }
@@ -162,9 +163,11 @@ footer {
 
 #copyright-and-social {
     background-color: #212121;
+    position: fixed;
     bottom: 0;
     padding: 30px;
     color: white;
+    width: 100%;
 }
 
 
