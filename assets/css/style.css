@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -32,7 +33,6 @@ header {
     letter-spacing: 4px;
     text-align: center;
     padding: 30px;
-    box-sizing: border-box;
     width: 25%;
 }
 
@@ -132,7 +132,7 @@ h3 {
 footer {
     background-color: #2a4147;
     color: #bdd9C0;
-    height: 200px;
+    height: auto;
     text-align: center;
     font-size: 90%;
     left: 0;
