@@ -21,8 +21,7 @@ header {
     height: 20%;
     overflow: hidden;
     float: right;
-    background-color: #2A4147;
-    color: white;
+    color: #2a4147;
 }
 
 #menu li {
@@ -39,15 +38,16 @@ header {
 #menu a {
     text-decoration: none;
     color: inherit;
+    font-weight: 700;
 }
 
 #menu li:hover {
-    background-color: #bdd9c0;;
-    color: #2a4147;
+    background-color: #2a4147;
+    color: white;
 }
 
 .active {
-    border-bottom: 2px solid #bdd9c0;
+    border-bottom: 2px solid #2a4147;
 }
 
 h1, h2 {
