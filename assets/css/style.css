@@ -15,6 +15,7 @@ body {
 header {
     padding-bottom: 200px;
 }
+
 #menu {
     width: 70%;
     height: 20%;
@@ -41,8 +42,12 @@ header {
 }
 
 #menu li:hover {
-    background-color: #BDD9C0;
+    background-color: #bdd9c0;;
     color: #2a4147;
+}
+
+.active {
+    border-bottom: 2px solid #bdd9c0;
 }
 
 h1 {
@@ -58,6 +63,34 @@ h1 {
     margin: 0 0 30px 30px;
     width: 300px;
     height: 150px;
+}
+
+/* Hero Image and Cover Text */
+#hero-outer {
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 300px;
+    width: 100%;
+    background: url('../images/rainbow.webp') no-repeat center center;
+    /* Animates zoom effect */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* Creates zoom effect of hero image */
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
 
 
