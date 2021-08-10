@@ -131,6 +131,40 @@ h3 {
 footer {
     background-color: #2a4147;
     color: #bdd9C0;
+    height: 200px;
+    text-align: center;
+    font-size: 90%;
+    bottom: 0;
+    width: 100%;
+}
+
+.info-section {
+    padding: 30px;
+    width: 33%;
+}
+
+#left-extra-info {
+    float: left;
+}
+
+#right-extra-info {
+    float: right;
+}
+
+#center-extra-info {
+    margin: 0 auto;
+}
+
+.info-section h4 {
+    color: white;
+    font-family: Heebo, sans-serif;
+}
+
+#copyright-and-social {
+    background-color: #212121;
+    bottom: 0;
+    padding: 30px;
+    color: white;
 }
 
 
