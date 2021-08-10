@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Montserrat:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+}
+
+/* Headers and Logo */
+header {
+    padding-bottom: 200px;
+}
+#menu {
+    width: 70%;
+    height: 20%;
+    overflow: hidden;
+    float: right;
+    background-color: #2A4147;
+    color: white;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+    width: 25%;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu li:hover {
+    background-color: #BDD9C0;
+    color: #2a4147;
+}
+
+h1 {
+    font-size: 210%;
+    font-family: Heebo, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#logo {
+    position: absolute;
+    vertical-align: top;
+    margin: 0 0 30px 30px;
+    width: 300px;
+    height: 150px;
+}
+
+
+
+
