@@ -29,7 +29,7 @@ header {
     padding-bottom: 200px;
 }
 
-#menu {
+.menu {
     width: 70%;
     height: 20%;
     overflow: hidden;
@@ -37,7 +37,7 @@ header {
     color: #2a4147;
 }
 
-#menu li {
+.menu li {
     float: left;
     list-style-type: none;
     text-transform: uppercase;
@@ -47,13 +47,13 @@ header {
     width: 25%;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: inherit;
     font-weight: 700;
 }
 
-#menu li:hover {
+.menu li:hover {
     background-color: #2a4147;
     color: white;
 }
@@ -71,7 +71,7 @@ h1, h2 {
     text-transform: uppercase;
 }
 
-#logo {
+.logo {
     position: absolute;
     vertical-align: top;
     margin: 10px 0 30px 30px;
