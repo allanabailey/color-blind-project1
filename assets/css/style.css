@@ -177,6 +177,13 @@ h3 {
 .type-image {
     width: 300px;
     height: 150px;
+    transition: transform 2s;
+}
+
+.type-image:hover {
+    border: 2px solid #2a4147;
+    border-radius: 15px;
+    transform: scale(1.1);
 }
 
 #left-type {
