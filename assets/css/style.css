@@ -214,12 +214,13 @@ h3 {
 }
 
 .type-info {
-    height: 500px;
+    height: 600px;
 }
 
 .compare-images {
     width: 100%;
-    margin-top: 20%;
+    margin-top: 50px;
+    clear: both;
 }
 
 .compare-left-image {
