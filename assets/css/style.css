@@ -205,6 +205,41 @@ h3 {
     padding-top: 90px;
 }
 
+/* Colour Blindness Type Pages */
+.type-about-image {
+    height: 200px;
+    width: 400px;
+    float: left;
+    margin-right: 30px;
+}
+
+.type-info {
+    height: 500px;
+}
+
+.compare-images {
+    width: 100%;
+    margin-top: 20%;
+}
+
+.compare-left-image {
+    height: 300px;
+    width: 45%;
+    float: left;
+}
+
+.compare-right-image {
+    height: 300px;
+    width: 45%;
+    float: right;
+}
+
+/* Red-Green Colour Blindness */
+#rg-about {
+    height: 100vh;
+}
+
+
 
 
 
