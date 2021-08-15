@@ -10,7 +10,10 @@
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
-    height: 100vh;
+}
+
+main {
+    height: auto;
 }
 
 footer {
@@ -19,9 +22,9 @@ footer {
     height: auto;
     text-align: center;
     font-size: 90%;
-    left: 0;
     bottom: 0;
     width: 100%;
+    clear: both; 
 }
 
 /* Headers and Logo */
@@ -215,6 +218,7 @@ h3 {
 
 .type-info {
     height: 600px;
+    margin-bottom: 30px;
 }
 
 .compare-images {
@@ -237,7 +241,8 @@ h3 {
 
 /* Red-Green Colour Blindness */
 #rg-about {
-    height: 100vh;
+    height: auto;
+    margin-bottom: 50px;
 }
 
 
