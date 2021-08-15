@@ -13,6 +13,17 @@ body {
     height: 100vh;
 }
 
+footer {
+    background-color: #2a4147;
+    color: #bdd9C0;
+    height: auto;
+    text-align: center;
+    font-size: 90%;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
 /* Headers and Logo */
 header {
     padding-bottom: 200px;
@@ -129,17 +140,6 @@ h3 {
 }
 
 /* Footer */
-footer {
-    background-color: #2a4147;
-    color: #bdd9C0;
-    height: auto;
-    text-align: center;
-    font-size: 90%;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-}
-
 .info-section {
     padding: 30px;
     width: 33%;
@@ -157,7 +157,7 @@ footer {
     margin: 0 auto;
 }
 
-#copyright-and-social {
+#copyright {
     background-color: #212121;
     padding: 30px;
     color: white;
