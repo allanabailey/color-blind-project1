@@ -168,6 +168,16 @@ h3 {
     font-family: Heebo, sans-serif;
 }
 
+/* Types HomePage */
+#types-choice {
+    text-align: center;
+}
+
+.type-image {
+    width: 300px;
+    height: 150px;
+}
+
 
 
 
