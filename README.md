@@ -89,5 +89,5 @@ To be written.
 
 
 
-## Credits and Aknowledgements
+## Credits and Acknowledgements
 To be written.
