@@ -171,11 +171,30 @@ h3 {
 /* Types HomePage */
 #types-choice {
     text-align: center;
+    height: 800px;
 }
 
 .type-image {
     width: 300px;
     height: 150px;
+}
+
+#left-type {
+    width: 33%;
+    float: left;
+    padding-top: 90px;
+}
+
+#right-type {
+    width: 33%;
+    float: right;
+    padding-top: 90px;
+}
+
+#center-type {
+    width: 33%;
+    margin: 0 auto;
+    padding-top: 90px;
 }
 
 
