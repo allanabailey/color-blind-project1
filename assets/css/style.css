@@ -276,6 +276,17 @@ h3 {
     width: 80%;
 }
 
+/* Palette Section in Design Page */
+#colour-palettes > h2 {
+    margin-bottom: 60px;
+}
+
+#regular-palette {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
 
 
 
