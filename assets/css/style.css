@@ -245,6 +245,15 @@ h3 {
     float: right;
 }
 
+/* Design Page */
+#about-design {
+    height: 800px;
+}
+
+#design-blurb {
+    margin-top: 60px;
+}
+
 
 
 
