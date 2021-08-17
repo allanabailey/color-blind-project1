@@ -248,10 +248,26 @@ h3 {
 /* Design Page */
 #about-design {
     height: 800px;
+    text-align: center;
 }
 
 #design-blurb {
     margin-top: 60px;
+}
+
+#left-design {
+    width: 33%;
+    float: left;
+}
+
+#right-design {
+    width: 33%;
+    float: right;
+}
+
+#center-design {
+    width: 33%;
+    margin: 0 auto;
 }
 
 
