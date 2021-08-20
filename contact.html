@@ -42,6 +42,34 @@
         </header>
         <!-- Beginning of Main Page Content -->
         <main>
+            <section class="form-section">
+                <h2>Let Us Know!</h2>
+                <form method="POST" action="#" id="contact-form">
+                    <h3>Tell us more about you...</h3>
+                    <label for="fname">First Name</label>
+                    <input id="fname" class="text-input" name="first_name" type="text" required>
+                    
+                    <label for="lname">Last Name</label>
+                    <input id="lname" class="text-input" name="last_name" type="text" required>
+                    
+                    <label for="email">Email Address</label>
+                    <input type="email" class="text-input" id="email" name="email_address" required>
+
+                    <h4>Are you a web developer?</h4>
+                    <label for="yes-web">Yes</label>
+                    <input type="radio" id="yes-web" name="web-dev-status" value="yes-web" required>
+                    <label for="no-web">No</label>
+                    <input type="radio" id="no-web" name="web-dev-status" value="no-web" required>
+                    <label for="want-web">I want to be!</label>
+                    <input type="radio" id="want-web" name="web-dev-status" value="want-web" required>
+
+                    <h4>Pick your favourite colour!</h4>
+                    <label for="fav-color">My favourite colour is: </label>
+                    <input type="color" id="fav-color" name="fav-color" value="#2a4147">
+
+                    <input class="submit" type="submit" value="Tell Us!">
+                </form>
+            </section>
         </main>
         <footer>
             <!-- Information Sections -->
