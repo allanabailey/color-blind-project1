@@ -288,8 +288,19 @@ h3 {
     display: block;
 }
 
-.palette-image {
+.palette-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.palette-container > figure {
     width: 45%;
+}
+
+.palette-image {
+    width: 100%;
     height: auto;
     padding-top: 30px;
 }
