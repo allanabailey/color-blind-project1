@@ -315,10 +315,10 @@ h3 {
 }
 
 #contact-form {
-    margin: 150px 10% 0 0;
+    margin: 90px 10% 0 0;
     color: #fff;
     background: rgba(21, 21, 21, 0.6);
-    max-width: 400px;
+    max-width: 50%;
     position: absolute;
     left: 10%;
     padding: 30px;
