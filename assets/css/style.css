@@ -35,7 +35,6 @@ header {
 .menu {
     width: 70%;
     height: 20%;
-    overflow: hidden;
     float: right;
     color: #2a4147;
 }
@@ -54,6 +53,7 @@ header {
     text-decoration: none;
     color: inherit;
     font-weight: 700;
+    display: block;
 }
 
 .menu li:hover {
@@ -372,6 +372,15 @@ h3 {
     .menu {
         width: 100%;
         margin-top: 100px;
-        clear: left;
+    }
+
+    .menu li {
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .menu li {
+        width: 50%;
     }
 }
