@@ -185,7 +185,7 @@ h3 {
 /* Types HomePage */
 #types-choice {
     text-align: center;
-    height: 800px;
+    height: auto;
 }
 
 .type-image {
@@ -368,6 +368,13 @@ h3 {
 .submit-button:hover {
     background-color: #2a4147;
     color: #bdd9c0;
+}
+
+@media screen and (max-width: 1000px) {
+    #left-type, #right-type, #center-type {
+        width: 100%;
+        padding: 30px;
+    }
 }
 
 @media screen and (max-width: 750px) {
