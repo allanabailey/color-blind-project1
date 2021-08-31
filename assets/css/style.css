@@ -375,6 +375,10 @@ h3 {
         width: 100%;
         padding: 30px;
     }
+
+    #about-design p {
+        padding: 30px;
+    }
 }
 
 @media screen and (max-width: 750px) {
@@ -404,6 +408,15 @@ h3 {
         width: 100%;
         border-bottom: 2px solid #fff;
         padding-top: 20px;
+    }
+
+    #left-design, #right-design, #center-design {
+        float: none;
+        width: 100%;
+    }
+
+    .design-image {
+        width: 50%;
     }
 }
 
