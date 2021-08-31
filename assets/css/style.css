@@ -114,7 +114,7 @@ h1, h2 {
 /* Footer */
 .info-section {
     padding: 30px;
-    width: 33%;
+    width: 33.33%;
 }
 
 .info-section a {
@@ -391,6 +391,12 @@ h3 {
 
     #about-left-image, #about-right-image, #about-center-image {
         float: none;
+    }
+
+    .info-section {
+        width: 100%;
+        border-bottom: 2px solid #fff;
+        padding-top: 20px;
     }
 }
 
