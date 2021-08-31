@@ -384,6 +384,14 @@ h3 {
         width: 30%;
         margin-left: calc(50vw - 15%);
     }
+
+    .about-info {
+        text-align: center;
+    }
+
+    #about-left-image, #about-right-image, #about-center-image {
+        float: none;
+    }
 }
 
 @media screen and (max-width: 400px) {
