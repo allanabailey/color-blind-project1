@@ -368,7 +368,7 @@ h3 {
     color: #bdd9c0;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 750px) {
     .menu {
         width: 100%;
         margin-top: 100px;
@@ -377,10 +377,20 @@ h3 {
     .menu li {
         padding: 20px;
     }
+
+    .logo {
+        width: 30%;
+        margin-left: calc(50vw - 15%);
+    }
 }
 
 @media screen and (max-width: 400px) {
     .menu li {
         width: 50%;
+    }
+
+    .logo {
+        width: 40%;
+        margin-left: calc(50vw - 20%);
     }
 }
