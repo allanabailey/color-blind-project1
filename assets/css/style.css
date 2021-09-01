@@ -402,10 +402,6 @@ h3 {
         text-align: center;
     }
 
-    #about-left-image, #about-right-image, #about-center-image {
-        float: none;
-    }
-
     .info-section {
         width: 100%;
         border-bottom: 2px solid #fff;
@@ -413,7 +409,6 @@ h3 {
     }
 
     #left-design, #right-design, #center-design {
-        float: none;
         width: 100%;
     }
 
