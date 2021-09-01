@@ -42,7 +42,17 @@ Users would visit this website to:
 ## Planning and Wireframes/MockUps
 
 ### Planning Process
-To be written.
+I attempted to plan the project in line with the 5 planes of User Centric Design to optimise the User Experience and ensure I didn't fall foul of issues such as scope creep. 
+
+I began by thinking of what content could be useful to web developers and had a keen passion for inclusion and diversity, which led to the idea of creating a website around accessible design. Focussing this further due to limited time and resources, I decided to focus on colour blindness, or colour vision deficiency, as the main focal point of the website. 
+
+I then began to conisder the content that could be achieved which was then scaled down slightly. Originally, there was also going to be an interactive colour picker which showcased how the different colours appeared in each type of colour blindness, but opted to provide a static palette collection and images that could be compared instead.
+
+Following this, I sketched my ideas with pen and paper to logicalise the layout of the site and the priority of content, eventually deciding on Home > Types > Design > Contact with the main content in the pane below. Originally I had the footer information appearing in a customised sidebar for each page, however felt this detracted from the main content and did not always contain vital information important to the page content beside it. Therefore, as it was a lower priority, this information was placed in the footer of the website. This way it was still accessible, but did not take priority over the other content and offered a more modern look to the site.
+
+Following on from this, I used Balsamiq to create wireframes of the different pages to visualise more clearly the location and priority of elements which I then gathered feedback on and adjusted as per feedback.
+
+With regards to the choice of colours and images, it was essential to make the colours accessible and colour blind friendly. Therefore I created a palette of 6 colours which would be suitable and utilised these across the site, with the occasional use of rainbow coloured images to highlight the topic of colour throughout.
 
 ### Wireframes
 To be written.
