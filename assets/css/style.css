@@ -370,6 +370,7 @@ h3 {
     color: #bdd9c0;
 }
 
+/* Media Queries for Responsive Design for larger screen sizes (small desktops/large laptops) */
 @media screen and (max-width: 1000px) {
     #left-type, #right-type, #center-type {
         width: 100%;
@@ -381,6 +382,7 @@ h3 {
     }
 }
 
+/* Media Queries for Responsive Design for medium sized screens (tablets and laptops) */
 @media screen and (max-width: 750px) {
     .menu {
         width: 100%;
@@ -420,6 +422,7 @@ h3 {
     }
 }
 
+/* Media Queries for Responsive Design for small screen sizes (mobiles) */
 @media screen and (max-width: 400px) {
     .menu li {
         width: 50%;
