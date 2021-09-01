@@ -32,7 +32,10 @@ Users would visit this website to:
 * Find out about design considerations that could create a more inclusive web application or graphic.
 
 ### User Stories
-As a user....
+* As a user who is researching colour blindness, I want to easily see information about colour blindness, so that I can gain more knowledge on the subject.
+* As a user with a family member who is colour blind, I want to be able to visualise what they see, so that I can understand their visual deficiency more. 
+* As a user who is colour blind, I want a website I can easily see, so that colours don’t prevent me from reading the content.
+* As a web designer, I want information on how to create an accessible application, so that all users can enjoy my creations. 
 
 
 
