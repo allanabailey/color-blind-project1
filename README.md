@@ -58,7 +58,6 @@ With regards to the choice of colours and images, it was essential to make the c
 To be written.
 
 
-
 ## Features
 * Logo
 * SideBar
