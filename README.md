@@ -55,7 +55,24 @@ Following on from this, I used Balsamiq to create wireframes of the different pa
 With regards to the choice of colours and images, it was essential to make the colours accessible and colour blind friendly. Therefore I created a palette of 6 colours which would be suitable and utilised these across the site, with the occasional use of rainbow coloured images to highlight the topic of colour throughout.
 
 ### Wireframes
-To be written.
+On creating the wireframes, some small changes occurred as a result the difference purposefully shown below. As seen in the images below, originally there was going to be a "Palettes" tab and no "Contact" tab. Having an interactive palettes page was beyond the scope of this project and required technologies not yet covered. Therefore, a decision was made to replace the "Palettes" page with a "Contact" page to prevent overcrowding in the footer and ensure there was an interactive element present.
+
+Wireframes were not created on Balsamiq for responsive screen sizes, but adjusted on paper as they were simplistic changes such as stacking content rather than displaying them in columns.
+
+#### HOME PAGE
+![Home](/assets/images/wireframes/home.png)
+
+#### TYPES HOME PAGE
+![Types Home Page](/assets/images/wireframes/types-home.png)
+
+#### TYPES TEMPLATE FOR RED-GREEN, BLUE-YELLOW AND MONO
+![Types Template](/assets/images/wireframes/types.png)
+
+#### DESIGN
+![Design Home Page](/assets/images/wireframes/design.png)
+
+#### PALETTES - NOT INCLUDED IN FINAL DESIGN
+![Palettes](/assets/images/wireframes/palettes.png)
 
 
 ## Features
