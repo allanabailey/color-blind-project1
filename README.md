@@ -77,10 +77,13 @@ Wireframes were not created on Balsamiq for responsive screen sizes, but adjuste
 
 ## Features
 * Logo
-* SideBar
+    * Every page has an **interactive logo** placed at the top of the screen to allow the user to easily return to the home page. The logo uses the **same colour scheme** as the site for consistency. It is placed in a conventional position of top left for desktops, and center top for mobiles for continuity and best practice.
 * Nav Bar
+    * Every page also has an **interactive nav bar** placed at the top of the screen which is the convention in web design. The nav bar **changes state** by highlighting in a different colour when **active or hovered over** to provide feedback for the user and clarification of which page they are currently viewing.
 * Title
+    * There is the main website title that appears at the **top of every page**, however below the nav bar, in the content window, each page has its **own title** in a reduced header size to showcase that it is a subtitle and inform the user of the page title.
 * Footer
+    * Every page has a footer which is split into **two sections**. One section containes **extra information** such as online colour blind tests, fun facts and useful articles, whilst the lower section of the footer contains **copyright information**. Initially social media links were also going to be added, but this did not seem suitable for the website as there is no central social media presence for this content.
 
 ### Home
 To be written.
@@ -88,10 +91,10 @@ To be written.
 ### Types
 To be written.
 
-### Palette
+### Design
 To be written.
 
-### Design Considerations
+### Contact
 To be written.
 
 
