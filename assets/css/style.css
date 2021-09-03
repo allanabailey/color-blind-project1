@@ -168,7 +168,7 @@ h3 {
     padding-top: 20px;
 }
 
-#about-left-image {
+.about-left-image {
     height: 300px;
     width: 300px;
     float: left;
