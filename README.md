@@ -131,7 +131,12 @@ The page is fully scalable meaning that on **smaller screens** the form natural 
 
 
 ## Future Implementations
-To be written.
+Due to the time and resource constraints of the project, certain implementations could not be achieved in the first release. However the following are being considered as future implementations:
+* Create a **success.html page** where on submission of the form in contact.html, users are redirected to a page highlighting the successful submission of the form. This page could also **contain a summary of the information submitted** for the user with an option to resubmit. Could potentially be a pop up as opposed to an entirely new page. This would require JavaScript.
+* On the pages for the specific types of colour blindness, there could potentially be a different way of showing the difference in regular vision and the representation of the same image for someone with the correspnding form of colour blindness. Potentially could include a **user file upload option** which then alters the image to display how it would appear for someone with colour blindness. A **change of images for smaller screen sizes** could also prevent the issue with aspect ratio ocurring.
+* Potential for **drop down menu** being created for the three types of colour blindness as a sub menu of "Types". I would want to conduct some more user research on this before implementing it and currently all content can be accessed within two clicks, keeping within the **3-click standard**.
+* In the inital wireframes created following the concept creation, an **interactive palette / colour picker** was considered whereby the user could select a colour from either an HTML colour picker or pre selected group of colours, and the way these colours appear to the four main forms of colour blindness would appear beside this. This would require potential extensions and the use of JavaScript to achieve.
+* On the user submitting their favourite colour in the form on contact.html, it could **create an inclusive colour palette of six colours including their favourite colour** similary to the way that https://palett.es/fdfdfd-f25cbe-2a4147-d5a85b-202020 achieves this, with a contrast and accessibility check such as Adobe Color. This would be a major new implementation with a great deal of development effort and is something that already exists on the web, so would be the lowest priority to implement.
 
 
 
