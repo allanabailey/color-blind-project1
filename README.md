@@ -141,7 +141,15 @@ Due to the time and resource constraints of the project, certain implementations
 
 
 ## Technologies Used
-To be written.
+* Programming LanguageS: HTML and CSS.
+* [GitPod](https://gitpod.io)
+    * GitPod was used as the IDE to develop and write the project and was then pushed to GitHub.
+* [Google Fonts](https://fonts.google.com/)
+    * Google Fonts was used as a way to style and customise the fonts and appearance of the website content.
+* [Font Awesome](https://fontawesome.com/)
+    * Font Awesome was used to add icons to the home page to represent the content topic.
+* [Paint 3D](https://www.microsoft.com/en-gb/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab)
+    * Paint 3D was used to alter the colours of the logo images for types.html.
 
 
 
