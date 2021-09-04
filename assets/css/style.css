@@ -245,13 +245,13 @@ h3 {
 }
 
 .compare-left-image {
-    height: 300px;
+    height: auto;
     width: 45%;
     float: left;
 }
 
 .compare-right-image {
-    height: 300px;
+    height: auto;
     width: 45%;
     float: right;
 }
