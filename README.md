@@ -238,4 +238,32 @@ Once you have a [GitHub](https://github.com) account and installed the [GitPod C
 
 
 ## Credits and Acknowledgements
-To be written.
+The inspiration for creating the website around this topic came from a smaller group-project that was assigned whilst studying my degree at the **University of Kent** where we were tasked with altering the colours for a piece of software to show how it would appear for different forms of colour blindness.
+
+I would also like to thank my mentor **Miguel Martinez** at Code Institute for all of the support and calls throughout the duration of the project and providing feedback throughout.
+
+I would also like to thank **Code Institute** for providing a brilliant course and to all of the **fellow students** for their additional support and encouragement.
+
+### Images
+[Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/) - For free images available online to use.
+
+### Code
+[Code Institute](https://codeinstitute.net/) - For the 5-Day Coding Challenge and Diploma in Full Stack Software Development which have both been a vital learning resource for HTML and CSS.  
+[W3 Schools](https://www.w3schools.com/) - For the lessons and resolutions found, most notably asistance with displaying elements using flex for responsive design.  
+[CSS Tricks](https://css-tricks.com/) - Multiple helpful articles for different CSS styling tactics.  
+[Stack Overflow](https://stackoverflow.com/) - Articles and posts helping resolve many issues, especially with the responsive design elements and errors in GitHub and GitPod.  
+
+### Research
+[NHS - Colour Vision Deficiency](https://www.nhs.uk/conditions/colour-vision-deficiency/) - Facts about Colour blindness and statistics for who it affects.  
+[Colour Blind Awareness](https://www.colourblindawareness.org/colour-blindness/) - An organisation for raising awareness of colour blindness with an incredibly informative website.  
+[National Eye Institute](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/types-color-blindness) - A website publishing the research around colour blindness.  
+[EnChrome](https://enchroma.co.uk/) - A provider of glasses to help with colour blindness, but also contains good scientific information about the way different colours are perceived dependent on the type of colour blindness.  
+
+### Interactive Websites/Applications
+[Pilestone](https://pilestone.com/pages/color-blindness-simulator-1) - Used to alter images to represent colour blindness through a file upload.  
+[Medium Article by Allie Ofisher](https://medium.com/cafe-pixo/inclusive-color-palettes-for-the-web-bbfe8cf2410e) - Informative website on inclusive design with suggested colour palettes which inspired the use of the two main colours for the scheme of this project.  
+[palett](https://palett.es/fdfdfd-f25cbe-2a4147-d5a85b-202020) - Inclusive colour palette generator.  
+[Adobe Color](https://color.adobe.com/create/color-accessibility) - Used to check the contrast and accessibility of colours in a palette.  
+[coolors](https://coolors.co/e03f42-62a3d1-5d7b8b-2a4147-bdd9c0) - Identify the hex and rgb values of the palette created and check its appearance as per type of colour blindness.  
+
+
