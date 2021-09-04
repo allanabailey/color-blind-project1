@@ -221,11 +221,20 @@ To test the responsiveness of the website for smaller screen sizes, the develope
 
 
 ## Deployment
-To be written.
+This project was developed in [GitPod](https://gitpod.io) where everything was committed and pushed to [GitHub Repository](https://github.com/allanabailey/color-blind-project1) using the built in capabilties. The Code Institute offered a [template](https://github.com/Code-Institute-Org/gitpod-full-template) which could then be pulled and used for the main structure of the repository, and created into a GitPod repository by clicking the green "GitPod" button. Please see the process followed below for deployment:
+1. Go to the [GitHub Repository](https://github.com/allanabailey/color-blind-project1) home page.
+2. Click "Settings" in the ribbon of links below the title of the project.
+3. Click "Pages" on the side bar.
+4. Select "Branch: main" where it asks for the source.
+5. Hit "Save" and wait for a few minutes.
+6. Refresh the page and click the green link with the [deployed page](https://allanabailey.github.io/color-blind-project1/index.html).
 
-### Run this Locally in Your Own Repository
-To be written.
-
+### Run the Project Locally
+Once you have a [GitHub](https://github.com) account and installed the [GitPod Chrom Extension](https://www.gitpod.io/docs/browser-extension/) follow the steps below to clone this project into your own repository:
+1. Log in to your [GitPod](https://gitpod.io) account.
+2. Open the [project repository](https://github.com/allanabailey/color-blind-project1) in a new tab.
+3. Click on the green "GitPod" button to the top right of the project.
+4. This will automatically create a new GitPod workspace for you to work on. You can type in any name of your choosing.
 
 
 ## Credits and Acknowledgements
