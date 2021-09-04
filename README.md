@@ -3,6 +3,8 @@
 ## Brief Overview
 This website was created as a project for the Code Institute Diploma in Full Stack Software Development.
 
+![Responsive Display Across Devices](/assets/images/features/responsive.jpg)
+
 ### Description
 A website for people to visit who would like to know more about colour blindness, with clear visual representations of how different forms of colour blindness alter vision. The website also provides information on ways to design web applications in a more inclusive manner for people with colour blindness.
 
@@ -246,6 +248,7 @@ I would also like to thank **Code Institute** for providing a brilliant course a
 
 ### Images
 [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/) - For free images available online to use.
+[Am I Responsive](http://ami.responsivedesign.is/#) - Creating the image displaying the website preview on all devices at the top of the README.
 
 ### Code
 [Code Institute](https://codeinstitute.net/) - For the 5-Day Coding Challenge and Diploma in Full Stack Software Development which have both been a vital learning resource for HTML and CSS.  
