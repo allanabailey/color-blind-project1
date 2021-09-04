@@ -156,8 +156,68 @@ Due to the time and resource constraints of the project, certain implementations
 
 
 ## Testing
-To be written.
+A lot of manual testing took place in this project to ensure the validity and security of links, the correct functioning of the website, and checking that the user feedback was as expected.
+* Nav Bar: On each page, every link was clicked in the nav bar to ensure that all pages could be accessed regardless of the current page that the user was on.
+* External Links: The only external links are within the footer on each page. On each page each of these links were clicked to ensure that they worked and opened a new tab.
 
+### Bugs and Fixes
+* Rename Image Files: Some images were hyphenated whilst some were not. Renaming completed for cinsistency.
+* Missing target="_blank" on a footer link was added.
+* rel="noopener": On running a lighthouse report, the "Best Practice" analysis highlighted the lack of security for some of the links and so rel="noopener" was added.
+* Nav Section: in the nav section of the header, "id(#)" was being used for multiple occurrences so this was changed to "class(.)" for elements such as menu.
+
+### Validation
+All HTML code was passed through the [W3C Validator](https://validator.w3.org/) via direct input, and the CSS through [W3C JigSaw Validator](https://jigsaw.w3.org/css-validator/). Reports for each seen below. The only warnings present were the lack of heading for two sections: The hero image section and the footer. These sections do not require a heading and can thus be ignored.
+* index.html
+![index.html Validation](/assets/images/testing/index-test.png)
+
+* types.html
+![types.html Validation](/assets/images/testing/types-test.png)
+
+* types-rg.html
+![types-rg.html Validation](/assets/images/testing/types-rg-test.png)
+
+* types-by.html
+![types-by.html Validation](/assets/images/testing/types-by-test.png)
+
+* types-mono.html
+![types-mono.html Validation](/assets/images/testing/types-mono-test.png)
+
+* design.html
+![design.html Validation](/assets/images/testing/design-test.png)
+
+* contact.html
+![contact.html Validation](/assets/images/testing/contact-test.png)
+
+* style.css
+![style.css Validation](/assets/images/testing/css-test.png)
+
+### Lighthouse Reports
+A lighthouse report was run for each page on the deployed github page. Initially the performance and best practice was in the 80s for some of the pages. Following compressing the images and adding rel="noopener" to the external links, these all increased to the 90s. types-rg.html was the only specific types page that a lighthouse report was generated for as they follow the same structure, template and types-rg has the most content with two types.
+* index.html
+![index.html Lighthouse](/assets/images/testing/index-lighthouse.png)
+
+* types.html
+![types.html Lighthouse](/assets/images/testing/types-lighthouse.png)
+
+* types-rg.html
+![types-rg.html Lighthouse](/assets/images/testing/types-rg-lighthouse.png)
+
+* design.html
+![design.html Validation](/assets/images/testing/design-lighthouse.png)
+
+* contact.html
+![contact.html Validation](/assets/images/testing/contact-lighthouse.png)
+
+### Responsive Design
+To test the responsiveness of the website for smaller screen sizes, the developer console within the Google Chrome browser was utilised to identify the **breaking points** where media queries needed to be created. I then proceeded to use the responsive. There is one remaining bug where the sub titles on index.html occasionally appear split between 474 and 510px. The website was checked on a few main devices as options in the developer console:
+* iPad and iPad Pro
+* Moto G4
+* Galaxy S5
+* iPhone 5/SE
+* iPhone 6/7/8
+* iPhone 6/7/8+
+* iPhone X
 
 
 ## Deployment
