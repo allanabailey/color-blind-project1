@@ -150,6 +150,8 @@ Due to the time and resource constraints of the project, certain implementations
     * Font Awesome was used to add icons to the home page to represent the content topic.
 * [Paint 3D](https://www.microsoft.com/en-gb/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab)
     * Paint 3D was used to alter the colours of the logo images for types.html.
+* [TinyPNG](https://tinypng.com/)
+    * TinyPNG was used to compress image files for a better performance and loading speed.
 
 
 
