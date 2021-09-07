@@ -431,6 +431,10 @@ h3 {
         padding-top: 20px;
     }
 
+    #right-extra-info, #left-extra-info, #center-extra-info {
+        float: none;
+    }
+
     #left-design, #right-design, #center-design {
         width: 100%;
     }
