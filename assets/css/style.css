@@ -423,6 +423,12 @@ h3 {
     .design-image {
         width: 50%;
     }
+
+    .type-about-image {
+        width: 300px;
+        height: 150px;
+        float: none;
+    }
 }
 
 /* Media Queries for Responsive Design for small screen sizes (mobiles) */
@@ -434,5 +440,11 @@ h3 {
     .logo {
         width: 40%;
         margin-left: calc(50vw - 20%);
+    }
+
+    .type-about-image {
+        width: 200px;
+        height: 100px;
+        float: none;
     }
 }
