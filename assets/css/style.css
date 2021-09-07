@@ -458,9 +458,15 @@ h3 {
     }
 }
 
+/* Media Query for small to medium screens of 500px or less */
 @media screen and (max-width: 500px) {
     .menu li {
         width: 50%;
+    }
+
+    .about-image {
+        height: 200px;
+        width: 200px;
     }
 }
 
