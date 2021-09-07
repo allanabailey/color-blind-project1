@@ -447,6 +447,10 @@ h3 {
         display: block;
         float: none;
     }
+
+    #center-extra-info {
+        float: left;
+    }
 }
 
 @media screen and (max-width: 500px) {
