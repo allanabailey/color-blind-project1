@@ -27,6 +27,10 @@ footer {
     clear: both; 
 }
 
+hr {
+    border-top: 2px solid #2a4147;
+}
+
 .clear-fix {
     clear: both;
 }
@@ -152,6 +156,7 @@ h1, h2 {
     background-color: #212121;
     padding: 30px;
     color: white;
+    height: 20px;
 }
 
 .info-section h4 {
@@ -446,10 +451,6 @@ h3 {
         margin: 0 auto;
         display: block;
         float: none;
-    }
-
-    #center-extra-info {
-        float: left;
     }
 }
 
