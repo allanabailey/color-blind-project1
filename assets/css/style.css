@@ -27,6 +27,10 @@ footer {
     clear: both; 
 }
 
+.clear-fix {
+    clear: both;
+}
+
 /* 404.html Page */
 #error {
     height: 800px;
@@ -181,11 +185,18 @@ h3 {
     margin-right: 50px;
 }
 
-#about-right-image {
+.about-right-image {
     height: 300px;
     width: 300px;
     float: right;
     margin-left: 50px;
+}
+
+.about-center-image {
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-right: 50px;
 }
 
 /* Types HomePage */
@@ -240,7 +251,6 @@ h3 {
 }
 
 .type-info {
-    height: 600px;
     margin-bottom: 30px;
 }
 
@@ -428,15 +438,25 @@ h3 {
         width: 300px;
         height: 150px;
         float: none;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .about-image {
+        margin: 0 auto;
+        display: block;
+        float: none;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .menu li {
+        width: 50%;
     }
 }
 
 /* Media Queries for Responsive Design for small screen sizes (mobiles) */
 @media screen and (max-width: 400px) {
-    .menu li {
-        width: 50%;
-    }
-
     .logo {
         width: 40%;
         margin-left: calc(50vw - 20%);
@@ -445,6 +465,5 @@ h3 {
     .type-about-image {
         width: 200px;
         height: 100px;
-        float: none;
     }
 }
