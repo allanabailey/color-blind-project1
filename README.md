@@ -171,7 +171,7 @@ Manual testing took place in this project to ensure the validity and security of
 * Clearing Floats: The website was not being responsive on index.html and the various types.html pages due to image sizing and floating left. Clears were added and element selection in the developer tools allowed for the identification of the issue. As well as clearing floats, new heights and widths were added to the images at different breaking points to prevent overflow and sizing affecting the nav bar and footer.
 
 ### Validation
-All HTML code was passed through the [W3C Validator](https://validator.w3.org/) via direct input, and the CSS through [W3C JigSaw Validator](https://jigsaw.w3.org/css-validator/). Reports for each seen below. The only warnings present were the lack of heading for two sections: The hero image section and the footer. These sections do not require a heading and can thus be ignored.
+All HTML code was passed through the [W3C Validator](https://validator.w3.org/) via direct input, and the CSS through [W3C JigSaw Validator](https://jigsaw.w3.org/css-validator/). Reports for each seen below. The only warnings present were the lack of heading for two sections: The hero image section and the footer. These sections do not require a heading and can thus be ignored. All tests we re run with the same result after any changes were made.
 * index.html
 ![index.html Validation](/assets/images/testing/index-test.png)
 
@@ -192,6 +192,9 @@ All HTML code was passed through the [W3C Validator](https://validator.w3.org/) 
 
 * contact.html
 ![contact.html Validation](/assets/images/testing/contact-test.png)
+
+* 404.html
+![404.html Validation](/assets/images/testing/404-test.png)
 
 * style.css
 ![style.css Validation](/assets/images/testing/css-test.png)
