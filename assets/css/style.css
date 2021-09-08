@@ -468,6 +468,12 @@ h3 {
         height: 200px;
         width: 200px;
     }
+
+    .type-image {
+        height: 150px;
+        width: 250px;
+        padding: 30px;
+    }
 }
 
 /* Media Queries for Responsive Design for small screen sizes (mobiles) */
