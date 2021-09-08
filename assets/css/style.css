@@ -241,6 +241,19 @@ h3 {
     padding-top: 90px;
 }
 
+.types-link {
+    padding: 10px;
+    background-color: #2a4147;
+    color: #bdd9c0;
+    text-decoration: none;
+}
+
+.types-link:hover {
+    background-color: #bdd9c0;
+    color: #2a4147;
+    text-decoration: underline;
+}
+
 /* Colour Blindness Type Pages */
 .type-about {
     height: auto;
