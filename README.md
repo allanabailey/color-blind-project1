@@ -200,20 +200,26 @@ All HTML code was passed through the [W3C Validator](https://validator.w3.org/) 
 ![style.css Validation](/assets/images/testing/css-test.png)
 
 ### Lighthouse Reports
-A lighthouse report was run for each page on the deployed github page. Initially the performance and best practice was in the 80s for some of the pages. Following compressing the images and adding rel="noopener" to the external links, these all increased to the 90s. types-rg.html was the only specific types page that a lighthouse report was generated for as they follow the same structure, template and types-rg has the most content with two types.
-* index.html
+A lighthouse report was run for each page on the deployed github page. Initially the performance and best practice was in the 80s for some of the pages. Following compressing the images and adding rel="noopener" to the external links, these mostly increased to the 90s. types-rg.html, types-by.html and types-mono.html do have a lower "Best Practice" rating due to aspect ratios of images. However, on testing the responsiveness of the pages and checking the clarity of images during testing, they were deemed sufficient.
+* index.html  
 ![index.html Lighthouse](/assets/images/testing/index-lighthouse.png)
 
-* types.html
+* types.html  
 ![types.html Lighthouse](/assets/images/testing/types-lighthouse.png)
 
-* types-rg.html
+* types-rg.html  
 ![types-rg.html Lighthouse](/assets/images/testing/types-rg-lighthouse.png)
 
-* design.html
+* types-by.html  
+![types-by.html Lighthouse](/assets/images/testing/types-by-lighthouse.png)
+
+* types-mono.html  
+![types-mono.html Lighthouse](/assets/images/testing/types-mono-lighthouse.png)
+
+* design.html  
 ![design.html Validation](/assets/images/testing/design-lighthouse.png)
 
-* contact.html
+* contact.html  
 ![contact.html Validation](/assets/images/testing/contact-lighthouse.png)
 
 ### Responsive Design
