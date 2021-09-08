@@ -62,19 +62,19 @@ On creating the wireframes, some small changes occurred as a result the differen
 Wireframes were not created on Balsamiq for responsive screen sizes, but adjusted on paper as they were simplistic changes such as stacking content rather than displaying them in columns.
 
 #### HOME PAGE
-![Home](/assets/images/wireframes/home.png)
+[Home Wireframe](/assets/images/wireframes/home.png)
 
 #### TYPES HOME PAGE
-![Types Home Page](/assets/images/wireframes/types-home.png)
+[Types Home Page Wireframe](/assets/images/wireframes/types-home.png)
 
 #### TYPES TEMPLATE FOR RED-GREEN, BLUE-YELLOW AND MONO
-![Types Template](/assets/images/wireframes/types.png)
+[Types Template Wireframe](/assets/images/wireframes/types.png)
 
 #### DESIGN
-![Design Home Page](/assets/images/wireframes/design.png)
+[Design Wireframe](/assets/images/wireframes/design.png)
 
 #### PALETTES - NOT INCLUDED IN FINAL DESIGN
-![Palettes](/assets/images/wireframes/palettes.png)
+[Palettes Wireframe](/assets/images/wireframes/palettes.png)
 
 
 ## Features
