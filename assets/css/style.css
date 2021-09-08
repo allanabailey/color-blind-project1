@@ -40,6 +40,10 @@ hr {
     height: 800px;
 }
 
+#error h3 {
+    text-align: center;
+}
+
 /* Headers and Logo */
 header {
     padding-bottom: 200px;
