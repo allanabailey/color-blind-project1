@@ -1,7 +1,7 @@
 # Allana Bailey - Colour Blind Project with Code Institute
 
 ## Brief Overview
-This website was created as a project for the Code Institute Diploma in Full Stack Software Development.
+This website was created as a project for the Code Institute Diploma in Full Stack Software Development. The deployed site can be found [here](https://allanabailey.github.io/color-blind-project1/index.html)
 
 ![Responsive Display Across Devices](/assets/images/features/responsive.jpg)
 
@@ -161,12 +161,14 @@ Due to the time and resource constraints of the project, certain implementations
 A lot of manual testing took place in this project to ensure the validity and security of links, the correct functioning of the website, and checking that the user feedback was as expected.
 * Nav Bar: On each page, every link was clicked in the nav bar to ensure that all pages could be accessed regardless of the current page that the user was on.
 * External Links: The only external links are within the footer on each page. On each page each of these links were clicked to ensure that they worked and opened a new tab.
+* Responsive Design: The ebsite was tested for responsiveness down to a screen width of 320px. Most of this was completed throught the use of Google Chrom developr tools and clicking on the various device types and altering the screen width. Further information can be found in the section below titled "Responsive Design".
 
 ### Bugs and Fixes
 * Rename Image Files: Some images were hyphenated whilst some were not. Renaming completed for cinsistency.
 * Missing target="_blank" on a footer link was added.
 * rel="noopener": On running a lighthouse report, the "Best Practice" analysis highlighted the lack of security for some of the links and so rel="noopener" was added.
 * Nav Section: in the nav section of the header, "id(#)" was being used for multiple occurrences so this was changed to "class(.)" for elements such as menu.
+* Clearing Floats: The website was not being responsive on index.html and the various types.html pages due to image sizing and floating left. Clears were added and element selection in the developer tools allowed for the identification of the issue. As well as clearing floats, new heights and widths were added to the images at different breaking points to prevent overflow and sizing affecting the nav bar and footer.
 
 ### Validation
 All HTML code was passed through the [W3C Validator](https://validator.w3.org/) via direct input, and the CSS through [W3C JigSaw Validator](https://jigsaw.w3.org/css-validator/). Reports for each seen below. The only warnings present were the lack of heading for two sections: The hero image section and the footer. These sections do not require a heading and can thus be ignored.
