@@ -474,6 +474,10 @@ h3 {
         width: 250px;
         padding: 30px;
     }
+
+    .type-info > h3 {
+        font-size: 120%;
+    }
 }
 
 /* Media Queries for Responsive Design for small screen sizes (mobiles) */
