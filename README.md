@@ -158,7 +158,7 @@ Due to the time and resource constraints of the project, certain implementations
 
 
 ## Testing
-A lot of manual testing took place in this project to ensure the validity and security of links, the correct functioning of the website, and checking that the user feedback was as expected.
+Manual testing took place in this project to ensure the validity and security of links, the correct functioning of the website, and checking that the user feedback was as expected.
 * Nav Bar: On each page, every link was clicked in the nav bar to ensure that all pages could be accessed regardless of the current page that the user was on.
 * External Links: The only external links are within the footer on each page. On each page each of these links were clicked to ensure that they worked and opened a new tab.
 * Responsive Design: The ebsite was tested for responsiveness down to a screen width of 320px. Most of this was completed throught the use of Google Chrom developr tools and clicking on the various device types and altering the screen width. Further information can be found in the section below titled "Responsive Design".
